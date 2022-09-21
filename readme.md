@@ -1,1 +1,1 @@
-My submissions for [10-414/714: Deep Learning Systems : Algorithms and Implementation](https://dlsyscourse.org/)'s Homework assignments.
+My submissions for [Deep Learning Systems: Algorithms and Implementation(10-414/714)](https://dlsyscourse.org/)'s Homework assignments.
