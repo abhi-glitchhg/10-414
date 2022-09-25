@@ -208,14 +208,11 @@ def nn_epoch(X, y, W1, W2, lr = 0.1, batch=100):
 
 
 
-      pass
+      
 
     ### END YOUR CODE
 
-def relu(x):
-  if x>=0:
-    return x 
-  return 0
+
 
 ### CODE BELOW IS FOR ILLUSTRATION, YOU DO NOT NEED TO EDIT
 
